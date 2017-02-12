@@ -6,6 +6,7 @@ There are two options
 2) To decrypt message
 
 For Encrypt message:
+    
     Input:
     1) File path ( to be encrypt)
     2) Key
@@ -14,6 +15,7 @@ For Encrypt message:
     1) Encrypted file
     
 For Decrypt message:
+    
     Input:
     1) File path ( to be decrypt)
     2) Key
